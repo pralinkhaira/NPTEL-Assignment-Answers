@@ -580,10 +580,10 @@
    - [ ] It consists of many kinds of weather events, their periodicities, intensities, and nature of dynamism
 
 5. The Earth’s temperature depends on:
-   - [x] Incoming energy from the sun
-   - [x] Released energy from the Earth
-   - [x] The balance between energy entering and leaving the planet’s system
-   - [ ] All of these
+   - [ ] Incoming energy from the sun
+   - [ ] Released energy from the Earth
+   - [ ] The balance between energy entering and leaving the planet’s system
+   - [x] All of these
 
 6. The Energy Conservation Act of 2001 provides:
    - [x] A legal mandate for the implementation of energy efficiency measures through the mechanisms of the Bureau of Energy Efficiency (BEE)
@@ -634,7 +634,7 @@
    - [ ] Modern means of biodiversity
    - [x] Natural vegetation dedicated by local communities to ancestral spirits or deities
    - [ ] Natural vegetation dedicated by local communities to industries
-   - [x] All of these
+   - [ ] All of these
 
 4. What distinguishes ‘formal knowledge’ from ‘traditional ecological knowledge’?
    - [ ] Formal knowledge is based on an experiential process, while traditional ecological knowledge is textbook-based
@@ -735,6 +735,7 @@
    - [ ] The closest scientific equivalent of the Land, taken without its spiritual component, is ecosystem
 
 10. Which of the following statement/s is/are true about Kukis’ association with land and forest?
-    - [x] Land is inextricably linked to the Kuki’s material and spiritual world
-    - [x] Kuki social and cultural system and identity are closely linked with land and forests
-    - [x] Kuki historical root is also strongly linked with the land that they live on
+    - [ ] Land is inextricably linked to the Kuki’s material and spiritual world
+    - [ ] Kuki social and cultural system and identity are closely linked with land and forests
+    - [ ] Kuki historical root is also strongly linked with the land that they live on
+    - [x]  All of these
